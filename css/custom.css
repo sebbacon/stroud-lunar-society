@@ -1,0 +1,9 @@
+@font-face {
+  font-family: "Hamburger-Schwabacher";
+  src: url("/fonts/Hamburger_Schwabacher.ttf") format("truetype");
+}
+
+h1 {
+  font-size: 5em;
+  font-family: "Hamburger-Schwabacher";
+}
